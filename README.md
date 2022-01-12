@@ -1,2 +1,2 @@
 # version_control
-#This is fathom traininhg
+#This is fathom training
